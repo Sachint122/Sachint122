@@ -7,9 +7,12 @@ I’m a **Node.js Backend Developer** focused on building **secure, scalable API
 💬 Ask me about backend APIs, authentication, databases, and production issues.  
 ⚡ Fun fact: Most backend failures come from bad logic, not complex code.
 
+
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanatani.jarvishightech.up66) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-tiwari-javafullstack/) 
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachintiwari.751858@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanatani.jarvishightech.up66)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-tiwari-javafullstack/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sachin-tiwari-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachintiwari.751858@gmail.com)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
