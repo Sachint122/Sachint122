@@ -1,6 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Node.js backend APIs using Express<br>Authentication & authorization (JWT, roles)<br>Database-driven applications (SQL / MySQL / Postgres)<br><br>👯 I’m looking to collaborate on<br>Backend projects using Node.js & Express<br>REST API development<br>Real-world backend systems with proper validation & security<br><br>🤝 I’m looking for help with<br>Scalable backend architecture<br>Advanced API security practices<br>Production deployment & error handling<br><br>🌱 I’m currently learning<br>Node.js backend development<br>Payment gateway integration (Stripe / Razorpay basics)<br>Google Authentication (OAuth 2.0)<br><br>💬 Ask me about<br>Node.js & Express backend<br>REST APIs & JWT authentication<br>Payment gateway integration<br>Google OAuth authentication<br><br>⚡ Fun fact<br>Most backend bugs aren’t “hard” — they’re caused by bad logic and lazy validation.
-
+## 💫 About Me
+I’m a **Node.js Backend Developer** focused on building **secure, scalable APIs**.
+- Node.js & Express
+- JWT-based authentication & role-based access
+- Database-driven systems (MySQL, PostgreSQL, MongoDB)
+- Learning payment gateway integrations (Stripe / Razorpay) and Google OAuth
+💬 Ask me about backend APIs, authentication, databases, and production issues.  
+⚡ Fun fact: Most backend failures come from bad logic, not complex code.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanatani.jarvishightech.up66) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-tiwari-javafullstack/) 
